@@ -9,13 +9,13 @@
 
 ## 🎯 Executive Summary
 
-Proyek ini mengembangkan **sistem analisis penjualan komprehensif** untuk AWS SaaS, perusahaan penyedia solusi *Software as a Service* yang melayani segmen **Business-to-Business (B2B)**. Melalui analisis mendalam terhadap **9,994 transaksi** dari 99 pelanggan di 48 negara, proyek ini mengidentifikasi **peluang peningkatan penjualan hingga 25%** melalui strategi segmentasi pelanggan dan optimalisasi portofolio produk yang berbasis data.
+Proyek ini mengembangkan **sistem analisis penjualan komprehensif** untuk AWS SaaS, perusahaan penyedia solusi *Software as a Service* yang melayani segmen **Business-to-Business (B2B)**. Melalui analisis mendalam terhadap **9,994 transaksi** dari 99 pelanggan di 48 negara, proyek ini mengidentifikasi **pola penjualan dan peluang optimalisasi** melalui strategi segmentasi pelanggan dan optimalisasi portofolio produk yang berbasis data.
 
 ### 🚀 **Key Achievements**
-- **📈 Sales Growth Opportunity** - Identifikasi potensi peningkatan penjualan 25%
+- **📈 Sales Pattern Analysis** - Identifikasi pola penjualan dan peluang optimalisasi
 - **🎯 Customer Segmentation** - Klasifikasi 99 pelanggan dalam 3 segmen nilai  
 - **🌍 Geographic Insights** - Analisis performa 48 negara dan 3 region utama
-- **💰 Profitability Analysis** - Evaluasi 14 produk dengan margin keuntungan optimal
+- **💰 Profitability Analysis** - Evaluasi 14 produk dengan analisis performa penjualan
 
 ---
 
@@ -24,7 +24,7 @@ Proyek ini mengembangkan **sistem analisis penjualan komprehensif** untuk AWS Sa
 | Metric | Value | Impact |
 |--------|-------|---------|
 | **Total Transaksi** | 9,994 records | Comprehensive B2B transaction analysis |
-| **Periode Analisis** | Jan-Sep 2023 | 9 bulan data penjualan real-time |
+| **Periode Analisis** | 2020-2023 | 4 tahun data penjualan historis |
 | **Cakupan Global** | 48 negara, 262 kota | International market penetration |
 | **Customer Base** | 99 perusahaan B2B | Diversified client portfolio |
 | **Product Portfolio** | 14 produk SaaS | Complete solution ecosystem |
@@ -99,9 +99,9 @@ Proyek ini mengembangkan **sistem analisis penjualan komprehensif** untuk AWS Sa
 ### **💰 Strategic Benefits**
 Menggunakan insights dari analisis ini, perusahaan AWS SaaS dapat mencapai:
 
-- **25%+ peningkatan penjualan** melalui targeted customer engagement
+- **Peningkatan penjualan** melalui targeted customer engagement berdasarkan segmentasi
 - **Optimalisasi portofolio produk** dengan fokus pada ContactMatcher dan FinanceHub
-- **Ekspansi strategis di wilayah APJ** dengan potensi pertumbuhan 30%
+- **Ekspansi strategis** berdasarkan analisis performa regional
 - **Efisiensi operasional** melalui customer segmentation yang data-driven
 
 ### **📈 Competitive Advantages**
@@ -144,17 +144,17 @@ Menggunakan insights dari analisis ini, perusahaan AWS SaaS dapat mencapai:
 4. **Support** - Essential service dengan customer satisfaction tinggi
 
 ### **👥 Customer Value Distribution**
-- **High-Value Customers (19 perusahaan)**: Anthem, Ford Motor, Allianz
-- **Key Industries**: Finance (21.3%), Manufacturing, Healthcare dominan
-- **Geographic Concentration**: EMEA (42.2%), AMER (25.1%), APJ (32.7%)
-- **Segment Focus**: SMB (52%), Enterprise (31%), Strategic (17%)
+- **High-Value Customers (19 perusahaan)**: Termasuk Anthem, Ford Motor, Allianz
+- **Key Industries**: Finance dominan, diikuti Manufacturing dan Healthcare
+- **Geographic Concentration**: EMEA memiliki transaksi terbanyak, diikuti AMER dan APJ
+- **Segment Focus**: SMB segment terbesar, diikuti Enterprise dan Strategic
 
 ### **🌍 Regional Market Intelligence**
-| Region | Revenue Share | Key Markets | Growth Opportunity |
+| Region | Karakteristik | Key Markets | Strategic Focus |
 |--------|--------------|-------------|-------------------|
-| **EMEA** | 42.2% | London, EU markets | Mature market, retention focus |
-| **AMER** | 25.1% | United States dominan | Expansion in LATAM |
-| **APJ** | 32.7% | Emerging markets | Highest growth potential |
+| **EMEA** | Region dengan transaksi terbanyak | London, EU markets | Mature market, retention focus |
+| **AMER** | Strong presence | United States dominan | Market penetration |
+| **APJ** | Emerging markets | Asia-Pacific region | Market development |
 
 ---
 
@@ -203,7 +203,7 @@ warnings               # Data quality dan debugging
 
 ### **🎯 Immediate Actions**
 1. **High-Value Customer Program**: Implementasi dedicated account management untuk 19 top customers
-2. **APJ Market Expansion**: Alokasi resources untuk penetrasi pasar Asia-Pacific dengan growth potential 30%
+2. **APJ Market Expansion**: Alokasi resources untuk penetrasi pasar Asia-Pacific berdasarkan analisis regional
 3. **ContactMatcher Ecosystem**: Bundle strategy dengan produk komplementer untuk meningkatkan ARPU
 4. **SMB Segment Optimization**: Develop self-service platform untuk efisiensi operational cost
 
@@ -219,7 +219,7 @@ warnings               # Data quality dan debugging
 ## 📝 Project Limitations & Future Enhancements
 
 ### **⚠️ Current Constraints**
-1. **Data Temporal Scope**: Analisis terbatas pada periode Jan-Sep 2023 (9 bulan)
+1. **Data Temporal Scope**: Analisis berdasarkan data historis 2020-2023
 2. **Customer Behavior Deep-Dive**: Missing customer satisfaction dan NPS data
 3. **Competitive Intelligence**: Tidak ada data competitor pricing dan market share
 4. **Predictive Modeling**: Fokus pada descriptive analytics, belum predictive/prescriptive
@@ -278,7 +278,8 @@ Project ini dikembangkan untuk **educational dan portfolio purposes** sebagai ba
 ### **⚖️ Important Notes**
 - Dataset merepresentasikan real B2B SaaS transaction patterns
 - Analysis methodology menggunakan industry-standard practices
-- Business insights derived dari comprehensive statistical analysis
+- Business insights derived dari descriptive statistical analysis
+- Rekomendasi berdasarkan analisis historis dan memerlukan validasi lebih lanjut untuk implementasi
 - Regular analysis update direkomendasikan untuk production implementation
 
 ---
@@ -309,4 +310,4 @@ Special recognition to:
 
 ---
 
-*This project demonstrates end-to-end data analysis capabilities from exploratory analysis to actionable business recommendations, showcasing technical expertise dan business acumen in solving real-world B2B SaaS sales optimization challenges through advanced analytics techniques.* 
+*This project demonstrates end-to-end data analysis capabilities from exploratory analysis to business insights, showcasing technical expertise dan analytical skills in understanding real-world B2B SaaS sales patterns through descriptive analytics techniques.* 
