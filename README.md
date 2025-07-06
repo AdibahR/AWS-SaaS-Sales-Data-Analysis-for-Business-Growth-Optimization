@@ -34,12 +34,12 @@ Proyek ini mengembangkan **sistem analisis penjualan komprehensif** untuk AWS Sa
 
 ## 🚀 Features
 
-- 🎯 **Customer Segmentation** dengan analisis nilai lifetime dan profitabilitas
+- 🎯 **Customer Segmentation** dengan analisis nilai transaksi dan profitabilitas
 - 📊 **Product Performance Analysis** untuk optimalisasi portofolio produk
 - 🌍 **Geographic Market Analysis** dengan insights regional dan ekspansi
-- ⚖️ **Profitability Optimization** melalui analisis margin dan strategi diskon
+- ⚖️ **Profitability Analysis** melalui analisis profit dan strategi diskon
 - 🧠 **Advanced Analytics Pipeline**: EDA, statistical testing, segmentasi berbasis data
-- 📈 **Business Intelligence Dashboard** dengan visualisasi interaktif dan actionable insights
+- 📈 **Data Visualization** dengan charts dan actionable insights
 
 ---
 
@@ -51,7 +51,7 @@ Proyek ini mengembangkan **sistem analisis penjualan komprehensif** untuk AWS Sa
 | **Customer Segmentation** | High/Medium/Low Value (20%-30%-50%) | Targeted retention strategies |
 | **Product Analysis** | 14 produk performance ranking | Portfolio optimization |
 | **Geographic Intelligence** | 48 negara performance mapping | Market expansion priorities |
-| **Profitability Analysis** | Margin analysis per produk/region | Revenue optimization |
+| **Profitability Analysis** | Profit analysis per produk/region | Revenue optimization |
 | **Statistical Testing** | Chi-square, Mann-Whitney U tests | Data-driven validation |
 
 ---
@@ -106,9 +106,9 @@ Menggunakan insights dari analisis ini, perusahaan AWS SaaS dapat mencapai:
 
 ### **📈 Competitive Advantages**
 - **Data-driven decision making**: Menggantikan intuisi dengan insights berbasis analitik
-- **Customer lifetime value optimization**: Fokus pada high-value customers (19 perusahaan)
+- **Customer value optimization**: Fokus pada high-value customers (19 perusahaan)
 - **Market expansion strategy**: Identifikasi peluang geografis dan industri
-- **Product portfolio optimization**: Maksimalisasi ROI melalui produk unggulan
+- **Product portfolio optimization**: Optimalisasi berdasarkan produk unggulan
 
 ---
 
@@ -126,7 +126,7 @@ Menggunakan insights dari analisis ini, perusahaan AWS SaaS dapat mencapai:
 #### **📊 Multi-Dimensional Analysis Framework**
 1. **🔍 Exploratory Data Analysis**: Comprehensive univariate, bivariate analysis dengan statistical testing
 2. **🧹 Data Understanding**: 9,994 transaksi, 19 features, validasi kualitas data
-3. **📈 Product Performance Analysis**: Ranking 14 produk berdasarkan sales, profit, market share
+3. **📈 Product Performance Analysis**: Ranking 14 produk berdasarkan sales dan profit
 4. **🌍 Geographic Intelligence**: Analisis performa 3 region (EMEA, AMER, APJ) dan 48 negara
 5. **👥 Customer Segmentation**: Nilai-based segmentation dengan business rules
 6. **🏭 Industry Analysis**: Evaluasi 10 sektor industri dan opportunity mapping
@@ -141,7 +141,7 @@ Menggunakan insights dari analisis ini, perusahaan AWS SaaS dapat mencapai:
 1. **ContactMatcher** - Market leader dengan kontribusi revenue tertinggi
 2. **FinanceHub** - Strong performer di sektor financial services  
 3. **Site Analytics** - Growth product dengan adoption rate tinggi
-4. **Support** - Essential service dengan customer satisfaction tinggi
+4. **Support** - Essential service dengan utilization yang baik
 
 ### **👥 Customer Value Distribution**
 - **High-Value Customers (19 perusahaan)**: Termasuk Anthem, Ford Motor, Allianz
